@@ -1,5 +1,7 @@
 # Portfólio de Eduardo Augusto
 
+[![Licença](https://img.shields.io/badge/licen%C3%A7a-Custom-blue)](LICENSE.md)
+
 Este é o repositório do meu portfólio pessoal, desenvolvido para apresentar minhas habilidades, projetos e experiência como desenvolvedor web front-end.
 
 **URLs:**
@@ -10,12 +12,12 @@ Este é o repositório do meu portfólio pessoal, desenvolvido para apresentar m
 
 O projeto foi construído com as seguintes tecnologias:
 
-- **Framework:** [Next.js](https://nextjs.org/) (v15)
-- **Linguagem:** [TypeScript](https://www.typescriptlang.org/)
-- **Estilização:** [Tailwind CSS](https://tailwindcss.com/) com `tailwindcss-animate`
+- **Framework:** [Next.js](https://nextjs.org/) (v15.5.3)
+- **Linguagem:** [TypeScript](https://www.typescriptlang.org/) (v5.9.2)
+- **Estilização:** [Tailwind CSS](https://tailwindcss.com/) (v4.1.13) com `tailwindcss-animate`
 - **Componentes UI:** Componentes customizados e primitivos do [Radix UI](https://www.radix-ui.com/)
-- **Animações:** [GSAP (GreenSock Animation Platform)](https://greensock.com/gsap/)
-- **Formulários:** [React Hook Form](https://react-hook-form.com/) com validação de schema utilizando [Zod](https://zod.dev/)
+- **Animações:** [GSAP (GreenSock Animation Platform)](https://greensock.com/gsap/) (latest)
+- **Formulários:** [React Hook Form](https://react-hook-form.com/) (v7.63.0) com validação de schema utilizando [Zod](https://zod.dev/) (v4.1.11)
 - **SEO:** Dados estruturados (JSON-LD) para melhor indexação em motores de busca.
 
 ## Estrutura do Projeto
@@ -38,8 +40,8 @@ Para executar o projeto localmente, siga os passos abaixo:
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/D3vEduardo/portfolio.git
+   cd portfolio
    ```
 
 2. **Instale as dependências:**
